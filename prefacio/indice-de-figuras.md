@@ -1,2 +1,4 @@
-# Indice de Figuras
 
+# Índice de Figuras
+
+\pagebreak

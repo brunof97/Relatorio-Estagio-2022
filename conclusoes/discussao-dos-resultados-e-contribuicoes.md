@@ -1,7 +1,6 @@
+
 # Discussão dos Resultados e Contribuições
 
-// Referir os resultados obtidos, discuti‐los e referir as suas contribuições&#x20;
+Relativamente ao resultado obtido durante o estágio, foram realizados vários avanços no projeto onde estive inserido, desde a resolução de problemas existentes e problemas que foram encontrados no decorrer do estágio, assim como a implementação de novas features no projeto, tendo obtido uma resposta satisfatória do cliente.
 
-// Referir as dificuldades que sentiu no desenvolvimento do trabalho ligadas a aspetos técnicos ou outros; discutir por exemplo, se as ferramentas usadas foram as mais adequadas
-
-&#x20;// Apresentar as melhorias que podiam ser efetuadas futuramente ao trabalho que desenvolveu
+Em relação a melhorias a ser efetuadas no projeto seria a continuidade do trabalho realizado, permitindo assim que o projeto seja lançado oficialmente.
